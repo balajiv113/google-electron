@@ -16,6 +16,7 @@ const View = () => {
         webpreferences={`spellcheck=${
             1
         }, contextIsolation=1`}
+        nodeintegration={"on"}
     />
 }
 
